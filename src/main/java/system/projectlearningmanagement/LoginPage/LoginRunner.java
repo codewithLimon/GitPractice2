@@ -13,6 +13,7 @@ public class LoginRunner extends Application {
         primaryStage.initStyle(StageStyle.DECORATED);
         primaryStage.show();
         primaryStage.setResizable(false);
+        primaryStage.setTitle("DFjbfdsjkhv");
 
     }
 
